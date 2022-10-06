@@ -1,14 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Im **Angelo Paul Tungala** also known as **Paul**, and I'm a **top GitHub committer** with 1 years of expertise in **Security and Web development**. I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.<br><br>
-<a href="https://www.youtube.com/carlcastanas"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
+Im **Angelo Paul Tungala** also known as **Paul**, and I'm a **top GitHub committer** I'd want to educate new programmers how to understand their route and design a suitable roadmap so that they may become IT professionals. My main objective is to enable young programmers in the Philippines have access to inexpensive learning materials.<br><br>
+<a href="https://www.youtube.com/angelopaul"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Angelo+Paul%C3%B1as%2C+22+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-angelopaultungala@gmail.com-red)](mailto:angelopaultungala@gmail.com) [![](https://img.shields.io/badge/Linkedin-Angelo%20Paul%20Tungala%C3%B1as-blue)](https://www.linkedin.com/in/angelotungala/)
 
 ### How to reach me: 
 <a href="mailto: angelopaultungala@gmail.com">
-<img src="https://img.shields.io/badge/-angelopaultungala@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@xzhouuu-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/angelopaultungala/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.angelopaul.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-angelopaultungala@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/xzhouuu/">   <img src="https://img.shields.io/badge/@xzhouuu-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/angelopaultungala/"><img src="https://img.shields.io/badge/angelopaultungala-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.angelopaul.netlify.app/"><img src="https://img.shields.io/badge/angelopaultungala.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
