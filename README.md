@@ -8,7 +8,7 @@ Im **Angelo Paul Tungala** also known as **Paul**, and I'm a **top GitHub commit
 
 ### How to reach me: 
 <a href="mailto: angelopaultungala@gmail.com">
-<img src="https://img.shields.io/badge/-angelopaultungala55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.angelopaul.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-angelopaultungala@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@xzhouuu-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/angelopaultungala/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.angelopaul.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
